@@ -1,5 +1,5 @@
-# Communicate using markdown 
-## Communicate using markdown
+# Example headings 
+## [Short Cut](#short-cut)
 ### Communicate using markdown
 #### Communicate using markdown
 ##### Communicate using markdown
@@ -23,3 +23,42 @@ var myVar = "Hello, world!";
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world 
+
+## Short Cut
+**bold**: Command + B
+<hr>
+_Italic _: Command + I
+<hr>
+~~Strikethrough~~: 
+<hr>
+<sub>Subscript</sub>:
+<hr>
+
+Check out [gitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<br>
+
+`Quoting code`: Command + E <br>
+
+'#RRGGBB' colour
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
