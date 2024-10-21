@@ -1,5 +1,5 @@
 # Example headings 
-## [Short Cut](#short-cut)
+## [Short Cut](##short-cut)
 ### Communicate using markdown
 #### Communicate using markdown
 ##### Communicate using markdown
